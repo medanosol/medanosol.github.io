@@ -1,12 +1,13 @@
 ---
 outline: deep
+title: translation-tool
 ---
 
 <div align="center"><img src="https://github.com/medanosol/translation-tool/assets/71669730/fa23f864-de8f-4de1-8c93-1d341b87078e" alt="translation-tool cover"/></div>
 
 ## Introduction
 
-translation-tool is a tool that allows you to translate your i18n files in a simple and fast way. You can manually translate the files or use the Deepl API to translate them automatically.
+translation-tool allows you to translate your i18n files in a simple and fast way. You can manually translate the files or use the Deepl API to translate them automatically.
 
 ## Why
 
