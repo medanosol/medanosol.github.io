@@ -13,6 +13,10 @@ features:
     icon: 🌐
     details: A tool that allows you to translate your i18n files in a simple and fast way.
     link: /translation-tool
+  - title: react-feedback-report
+    icon: 🔍
+    details: React component that allows users to capture a section of a website, provide feedback, and report bugs.
+    link: /react-feedback-report
 ---
 
 <script setup>
